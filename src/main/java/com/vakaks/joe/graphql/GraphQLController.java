@@ -1,4 +1,4 @@
-package com.joedev.graphql;
+package com.vakaks.joe.graphql;
 
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.QueryMapping;
